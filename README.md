@@ -62,7 +62,7 @@ This is a test
         this is a test command
         this is a test command
         
-	# Note: Make sure that the prod/ directory is removed.
+> Note: Make sure that the *prod/* directory is removed.`
 
 2. This is a test
 
