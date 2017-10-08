@@ -39,9 +39,9 @@ This is a test
          # Run a PHP5.6 server
          this is a test command
 
-	 # Or a PHP 7.1 server
-         this is a test command
 
+         # Run a PHP7.1 server
+         this is a test command
 2. This is a test
 		
         this is a test command
